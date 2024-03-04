@@ -68,13 +68,13 @@ const DUMMY_EXPENSES = [
     id: "e11",
     description: "A pair of NeckBands",
     amount: 99.99,
-    date: new Date("2020 - 12-19"),
+    date: new Date("2024 - 12-19"),
   },
   {
     id: "e12",
     description: "A pair Item Of Bucket List",
     amount: 99.99,
-    date: new Date("2024 - 12-19"),
+    date: new Date("2024 - 2-21"),
   },
 ];
 
